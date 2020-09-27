@@ -1,0 +1,20 @@
+{
+  "name": "moblieshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "sass ./ShoppingMobile/sass/style.scss style.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SinhTran1999/Mobile_Shop_With_PHP_MYSQL.git"
+  },
+  "author": "Nhan Sinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SinhTran1999/Mobile_Shop_With_PHP_MYSQL/issues"
+  },
+  "homepage": "https://github.com/SinhTran1999/Mobile_Shop_With_PHP_MYSQL#readme"
+}
